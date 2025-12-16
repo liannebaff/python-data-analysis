@@ -25,13 +25,13 @@ This repository provides evidence of Python and pandas data analysis skills deve
 - **02_pandas_dataframes**  
   A collection of pandas exercise notebooks focused on data manipulation and analysis.
   
-  - **02a_pandas_basics.ipynb**
-    - Core pandas functionality, including reading Excel files, exploring and inspecting DataFrames, understanding dataset structure and summary statistics, selecting and slicing data, using `loc` and `iloc`, Boolean filtering, sorting values and calculating summary statistics.
+- **02a_pandas_basics.ipynb**
+  - Core pandas functionality, including reading Excel files, exploring and inspecting DataFrames, understanding dataset structure and summary statistics, selecting and slicing data, using `loc` and `iloc`, Boolean filtering, sorting values and calculating summary statistics.
   - [Worksheet](02a_pandas_basics.ipynb)
     
 - **02b_pandas_dataframes_exercises_part1.ipynb**
   - Covers practical exercises with pandas DataFrames, including creating DataFrames from lists and dictionaries, inspecting data, renaming and adding columns, performing arithmetic operations, converting data types, calculating total revenue, rounding numeric columns, and exporting cleaned data to CSV and Excel.
-    - [Worksheet](02b_pandas_dataframes_exercises_part1.ipynb)
+  - [Worksheet](02b_pandas_dataframes_exercises_part1.ipynb)
 
 - **02c_pandas_dataframes_exercises_part2.ipynb**
   - Focuses on practical DataFrame manipulation and analysis, including importing CSV files, creating new calculated columns, Boolean filtering and aggregation, calculating percentages, and sorting.
